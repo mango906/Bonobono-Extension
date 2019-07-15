@@ -1,0 +1,15 @@
+{
+  "name": "Bonobono-extension",
+  "version": "1.0",
+  "description": "Bonobono!!!",
+  "permissions": [
+    "activeTab",
+    "declarativeContent",
+    "storage",
+    "https://taegon.kim/wp-content/uploads/2018/05/image-5.png"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
